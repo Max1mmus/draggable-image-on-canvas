@@ -1,2 +1,3 @@
-# draggable-object-canvas
-Creating a draggable object on canvas
+# Draggable-object-canvas
+
+Drag drawn image on canvas 
